@@ -129,7 +129,7 @@ The models above were all used in Binary and Multiclass classification.
 
 ### Authors
 
-  Gladwell Chepkorir, Alvin Asingo, Esther Cheruiyot, Patricia Ngari: Data Scientists, responsible for dataset preparation, modeling, evaluation, and documentation.
+  Gladwell Chepkorir
 
 
 ### Acknowledgments
